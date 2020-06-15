@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhuQuyTran_300303518_PaperB</string>
+    <string name="nameTitle">Phu Quy Tran</string>
+    <string name="idTitle">300303518</string>
+    <string name="rdbInterest">Interest Calculator</string>
+    <string name="rdbPhone">My favorite Phones</string>
+    <string name="btnGo">Go!</string>
+    <string name="txtNumber1">Number 1</string>
+    <string name="txtNumber2">Number 2</string>
+    <string name="btnMultiply">Multiply</string>
+
+</resources>
